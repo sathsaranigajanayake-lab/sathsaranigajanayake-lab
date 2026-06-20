@@ -1,12 +1,64 @@
-## Hi there 👋
+```md
+# 👋 Hi there, I'm Senushi Kawya!
 
+🎓 **Undergraduate Student**  
+💻 Passionate about Software Development & Web Technologies  
+🌱 Always learning new skills and building exciting projects.
 
-**sathsaranigajanayake-lab/sathsaranigajanayake-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+## 🚀 About Me
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+- 🎓 Undergraduate student
+- 💡 Interested in Software Engineering and Web Development
+- 🖥️ Learning Java, Python, HTML, CSS, JavaScript, SQL, and MySQL
+- 📚 Enjoy solving problems and creating real-world applications
+- 🤝 Open to collaborating on educational and open-source projects
 
-Here are some ideas to get you started:
+---
+
+## 🛠️ Languages & Tools
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Python
+- SQL
+- MySQL
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+- 🌐 Personal Portfolio Website
+- 🗄️ Database Management System
+- 💻 Internet Technology Coursework
+- 📱 Responsive Web Applications
+
+---
+
+## 🎯 Goals
+
+- Build high-quality software projects
+- Strengthen full-stack development skills
+- Contribute to open-source projects
+- Continue learning modern technologies
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/your-username
+- Email: your-email@example.com
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
+```
+
 
 .
 
