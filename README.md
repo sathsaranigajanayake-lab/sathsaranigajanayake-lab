@@ -70,11 +70,19 @@ html
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" />
-</p>
 
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" />
+</div>
 
 <h2>📫 Connect With Me</h2>
 
