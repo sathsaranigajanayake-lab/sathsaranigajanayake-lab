@@ -71,19 +71,6 @@ html
   </tr>
 </table>
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" />
-</p>
-
-<hr>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<hr>
 
 <h2>📫 Connect With Me</h2>
 
