@@ -92,6 +92,23 @@ html
   <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" />
 </div>
 
+<br>
+</p>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+	
+</a>
+</div>
+
+
 <h2>📫 Connect With Me</h2>
 
 <p>
@@ -117,24 +134,7 @@ html
 
 <br>
 
- <div class="coffee">
-☕ Buy me a coffee
-</div>
-
-</div>
-
-<div class="wave"></div>
-
-</div>
-
-<p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sathsaranigajanayake-lab&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sathsaranigajanayake-lab&theme=tokyonight" />
-</p>
-
-<br>
-
+ 
 ### 🌸 Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
