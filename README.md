@@ -18,6 +18,8 @@ html
 
 <h2>🚀 About Me</h2>
 
+  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+
 <ul>
   <li>🎓 Studying Software Engineering at <b>iCET</b></li>
   <li>🌱 Currently learning <b>Java, HTML, CSS, JavaScript & MySQL</b></li>
@@ -25,8 +27,6 @@ html
   <li>📚 Building projects and improving coding skills</li>
   <li>🎯 Goal: Become a Full-Stack Software Engineer</li>
 
-  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-  
 </ul>
 
 
