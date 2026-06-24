@@ -27,6 +27,7 @@ html
   <li>📚 Building projects and improving coding skills</li>
   <li>🎯 Goal: Become a Full-Stack Software Engineer</li>
   <li>📫 Reach me at: sathsaranigajanayake@gmail.com</li>
+ <li> </li>
 
 
 </ul>
@@ -91,7 +92,7 @@ html
   <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" />
 </div>
 
-<h2>📫 Connect With Me</h2>
+<!-- <h2>📫 Connect With Me</h2>
 
 <p>
   🌐 GitHub :
@@ -102,7 +103,29 @@ html
 
 <hr>
 
-<div align="center">
+<div align="center"> -->
+
+</div>
+
+<div class="footer">
+
+<h2>🌐 Connect & Support</h2>
+
+<a href="#" class="btn linkedin">LINKEDIN</a>
+<a href="#" class="btn twitter">TWITTER</a>
+<a href="#" class="btn youtube">YOUTUBE</a>
+
+<br>
+
+<div class="coffee">
+☕ Buy me a coffee
+</div>
+
+</div>
+
+<div class="wave"></div>
+
+</div>
 
 ### 🌸 Thanks for visiting my profile!
 
