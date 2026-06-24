@@ -9,9 +9,7 @@ html
 
   <h3>💻 Software Engineering Student | 🎓 iCET Student</h3>
   
-  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Learning+Java+%26+Web+Development;Always+Learning+New+Things!" /> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Learning+Java+%26+Web+Development;Always+Learning+New+Things!" /> 
 
 
 </div>
@@ -27,6 +25,8 @@ html
   <li>📚 Building projects and improving coding skills</li>
   <li>🎯 Goal: Become a Full-Stack Software Engineer</li>
 </ul>
+
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 
 <h2>🛠️ Tech Stack & Tools</h2>
