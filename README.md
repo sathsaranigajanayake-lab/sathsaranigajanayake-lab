@@ -96,28 +96,33 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+<h3 align="center">My Statistics:</h3>
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=SenushiKawya=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SenushiKawya=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SenushiKawya=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
-</div>
-
-<hr>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SenushiKawya&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=SenushiKawya&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
-<hr>
+<img align="center"
+     src="https://github-readme-stats.vercel.app/api?username=sathsaranigajanayake-lab&theme=dark&show_icons=true&count_private=true" />
 
+<br><br>
+
+<img title="🔥 GitHub Streak"
+     alt="GitHub Streak"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=sathsaranigajanayake-lab&theme=dark&hide_border=false" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img align="center"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathsaranigajanayake-lab&theme=dark&layout=compact&langs_count=10" />
+
+</td>
+</tr>
+</table>
+</p>
 
 <h2>📫 Connect With Me</h2>
 
