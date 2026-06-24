@@ -92,7 +92,7 @@ html
   <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" />
 </div>
 
-<!-- <h2>📫 Connect With Me</h2>
+<h2>📫 Connect With Me</h2>
 
 <p>
   🌐 GitHub :
@@ -103,7 +103,7 @@ html
 
 <hr>
 
-<div align="center"> -->
+<div align="center"> 
 
 </div>
 
@@ -117,7 +117,7 @@ html
 
 <br>
 
-<!-- <div class="coffee">
+ <div class="coffee">
 ☕ Buy me a coffee
 </div>
 
@@ -125,7 +125,7 @@ html
 
 <div class="wave"></div>
 
-</div> -->
+</div>
 
 <p align="center">
 
