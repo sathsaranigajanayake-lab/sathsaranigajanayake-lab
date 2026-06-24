@@ -124,7 +124,7 @@
 <p>
   🌐 GitHub :
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    https://github.com/YOUR_GITHUB_USERNAME
+   (https://github.com/sathsaranigajanayake-lab/sathsaranigajanayake-lab)
   </a>
 </p>
 
