@@ -24,9 +24,11 @@ html
   <li>💡 Interested in Web Development & UI Design</li>
   <li>📚 Building projects and improving coding skills</li>
   <li>🎯 Goal: Become a Full-Stack Software Engineer</li>
+
+  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+  
 </ul>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 
 <h2>🛠️ Tech Stack & Tools</h2>
