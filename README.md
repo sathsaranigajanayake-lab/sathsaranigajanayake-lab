@@ -27,7 +27,7 @@
   <li>📚 Building projects and improving coding skills</li>
   <li>🎯 Goal: Become a Full-Stack Software Engineer</li>
   <li>📫 Reach me at: sathsaranigajanayake@gmail.com</li>
- <li> </li>
+
 
 
 </ul>
